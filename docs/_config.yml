@@ -28,7 +28,7 @@ twitter_username: maggiehende
 github_username:  mmhenderson
 
 # Build settings
-theme: minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
