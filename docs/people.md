@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: People
 permalink: /people/
 ---
-
 
 ### Principal Investigator: Maggie Henderson
 

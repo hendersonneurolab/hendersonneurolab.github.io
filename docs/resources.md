@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: page 
 title: Resources & Data
 permalink: /resources/
 ---
+
 
 Datasets and code from past research can currently be found here: 
 
