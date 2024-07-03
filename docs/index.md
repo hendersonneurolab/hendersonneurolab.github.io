@@ -5,7 +5,7 @@ Our research focuses on human visual perception. We aim to understand how our vi
 To address these questions, our research leverages experimental techniques such as functional magnetic resonance imaging (fMRI) and behavioral studies performed with healthy human participants. We also use advanced computational approaches, including modeling applied to fMRI and behavioral data as well as in-silico experiments in artificial neural network models.
 
 
-2
+3
 
 
 ### Contact
