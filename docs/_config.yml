@@ -28,10 +28,14 @@ twitter_username: maggiehende
 github_username:  mmhenderson
 
 # Build settings
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+# theme: jekyll-theme-poole
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
+  # - jekyll-remote-theme
+# remote_theme: pages-themes/hyde@v0.2.0
+# theme: jekyll-theme-hyde
 
 # Exclude from processing.
 # The following items will not be processed, by default.
