@@ -34,7 +34,7 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-remote-theme
-remote_theme: hyde@v2.1.0
+remote_theme: pages-themes/hyde
 # theme: jekyll-theme-hyde
 
 # Exclude from processing.
