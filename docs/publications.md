@@ -6,13 +6,20 @@ permalink: /publications/
 
 
 
-### Publications and pre-prints
+### Pre-prints & under review
 
-Luo, A.F., Henderson, M.M., Tarr, M.J, & Wehbe, L. (2024). BrainSCUBA: Fine-Grained Natural Language Captions of Visual Cortex Selectivity. Proceedings of the International Conference on Learning Representations ([ICLR](https://doi.org/10.48550/arXiv.2310.04420)).
+
+Zawar, R., Dewan, S., Luo, A.F., Henderson, M.M., Tarr, M.J, & Wehbe, L. (2024). StableSemantics: A Synthetic Language-Vision Dataset of Semantic Representations in Naturalistic Images. [arXiv](https://arxiv.org/abs/2406.13735); under review.
+
+Yeung, J., Luo, A.F, Sarch, G., Henderson, M.M., Ramanan, D., & Tarr, M.J. (2024). Neural Representations of Dynamic Visual Stimuli. [arXiv](https://arxiv.org/abs/2406.02659); under review.
 
 Henderson, M.M., Serences, J.T., & Rungratsameetaweemana, N. (2023). Dynamic categorization rules alter representations in human visual cortex. [bioRxiv](https://doi.org/10.1101/2023.09.11.557257); under review. 
 
-Luo, A.F., Wehbe, L., Tarr, M.J., & Henderson, M.M. (2023). Neural Selectivity for Real-World Object Size in Natural Images. [bioRxiv](https://doi.org/10.1101/2023.03.17.533179).  
+Luo, A.F., Wehbe, L., Tarr, M.J., & Henderson, M.M. (2023). Neural Selectivity for Real-World Object Size in Natural Images. [bioRxiv](https://doi.org/10.1101/2023.03.17.533179); under review.
+
+### Peer-reviewed publications
+
+Luo, A.F., Henderson, M.M., Tarr, M.J, & Wehbe, L. (2024). BrainSCUBA: Fine-Grained Natural Language Captions of Visual Cortex Selectivity. Proceedings of the International Conference on Learning Representations ([ICLR](https://doi.org/10.48550/arXiv.2310.04420)).
 
 Luo, A.F., Henderson, M.M., Wehbe, L., & Tarr, M.J. (2023). Brain Diffusion for Visual Exploration: Cortical Discovery using Large Scale Generative Models. Proceedings of the Conference on Neural Information Processing Systems ([NeurIPS](https://doi.org/10.48550/arXiv.2306.03089)); oral presentation.
 
@@ -37,11 +44,14 @@ BOLD activation patterns recovers graded depth representations in human visual a
 Henderson, M.M. & Serences, J.T. (2019). Human frontoparietal cortex represents behaviorally relevant
 target status based on abstract object features. [Journal of Neurophysiology](https://journals.physiology.org/doi/full/10.1152/jn.00015.2019). ([pdf](papers/JNeuroPhys_2019.pdf))
 
+*These authors made equal contributions.
+
+<!--
 Henderson, M.M., Gardner, J., Raguso, R.A., & Hoffman, M.P. (2017). Trichogramma ostriniae
 (Hymenoptera: Trichogrammatidae) response to relative humidity with and without host cues. [Biocontrol Science and Technology](https://www.tandfonline.com/doi/abs/10.1080/09583157.2016.1262327).
 
 Henderson, M.M., Pinskiy, V., Tolpygo, A., Savoia, S., Grange, P., & Mitra, P. (2014). Automated placement
 of stereotactic injections using a laser scan of the skull. [arXiv](https://arxiv.org/abs/1410.5914).
 
-  *These authors made equal contributions.
+-->  
 
