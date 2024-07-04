@@ -4,15 +4,16 @@ title: About the lab
 permalink: /about/
 ---
 
-Our research focuses on human visual perception. We aim to understand how our visual perception reflects the structure of the world we live in as well as our need for adaptive everyday behavior. How do we compute meaningful, high-level information from noisy visual inputs, taking into account our experience with the statistics of our environment? How do we adapt these representations to changes in our goals and internal state? 
+Our lab aims to understand the neural and computational basis of human visual cognition. How do we extract meaningful, high-level information from noisy visual inputs? How does this process take into account the statistical structure of the world we live in? 
+How does visual processing adapt to changes in our goals and internal state? 
 
-To address these questions, our research leverages experimental techniques such as functional magnetic resonance imaging (fMRI) and behavioral studies performed with healthy human participants. We also use advanced computational approaches, including modeling applied to fMRI and behavioral data as well as in-silico experiments in artificial neural network models.
+To address these questions, we leverage experimental techniques, including functional magnetic resonance imaging (fMRI) and behavioral studies performed with healthy human participants. We also use advanced computational approaches, including modeling applied to fMRI and behavioral data as well as in-silico experiments in artificial neural network models.
 
-Here are a few areas of current interest:
+Here are a few project topics of current interest:
 
 ### Cortical representations of intermediate-level visual features
 
-Visual cortex performs hierarchical computations that bridge from simple features like edges and colors to complex features like object and scene parts. What are the representations that lie between these levels of complexity, and how can we understand such intermediate features from a computational perspective? We're aiming to understand <b>how intermediate features are computed in the brain and how they contribute to behavior.</b> Another goal is to determine how our visual processing is constrained by the statistical distribution of intermediate features in the environment.
+Visual cortex performs hierarchical computations that bridge from simple features like edges and colors to complex features like object and scene parts. What are the representations that lie between these levels of complexity, and how can we understand these intermediate features from a computational perspective? We're aiming to understand <b>how intermediate features are computed in the brain and how they contribute to behavior.</b> Another goal is to determine how our intermediate visual processing is ultimately constrained by the statistical distribution of features in the environment.
 
 Related past work:
 
@@ -23,7 +24,7 @@ Related past work:
 
 ### Flexible processing in higher visual cortex
 
-To support adaptive behavior, visual cortex circuits must integrate information about the behavioral goals of an observer, adjusting representations according to task-relevance. Not much is known about how the mechanisms of <b>flexible neural coding during naturalistic, high-level visual tasks.</b> How do we selectively attend to a specific category of objects within in a cluttered scene? How do we adaptively make decisions about objects when category boundaries change? We're aiming to understand how such tasks are supported by neural codes in higher visual cortex.
+To support behavioral goals, visual cortex circuits may adaptively adjust stimulus representations according to task-relevance. This idea of flexible neural coding has often been studied in the context of simple laboratory tasks, leading to many open questions about how <b>flexible neural codes might contribute to more naturalistic, high-level visual tasks.</b> How do we selectively attend to a specific category of objects within in a cluttered natural scene? How is the "object space" represented in higher visual cortex warped by changes in behavioral priority? We're addressing these questions using behavior and fMRI studies.
 
 Related past work:
 
@@ -32,5 +33,13 @@ Related past work:
 * Henderson, M.M. & Serences, J.T. (2019). Human frontoparietal cortex represents behaviorally relevant
 target status based on abstract object features. [Journal of Neurophysiology](https://journals.physiology.org/doi/full/10.1152/jn.00015.2019). ([pdf](papers/JNeuroPhys_2019.pdf))
 
-### Image statistics & category learning
+### Natural image statistics & category learning
 
+Our visual environment is highly structured in its feature statistics, with certain features being encountered more often than others. Morevoer, the statistics of our visual inputs may evolve over time during development, due to changes in visual sensitivity as well as visuomotor behavior. How do these properties of the <b>environment provide a curriculum that enables efficient category learning?</b> How is the structure of visual representations constrained by the structure of visual inputs? We're working to address these questions using simulated learning experiments performed in deep neural network models. 
+
+Related past work:
+
+* Jinsi, O.* , Henderson, M.M.*, & Tarr, M.J. (2023). Early experience with low-pass filtered images facilitates visual category learning in a neural network model. [PLOS ONE](https://doi.org/10.1371/journal.pone.0280145). ([pdf](papers/PLOSONE_2023.pdf))
+
+* Henderson, M.M., & Serences, J.T. (2021). Biased orientation representations can be explained by
+experience with non-uniform training set statistics. [Journal of Vision](https://jov.arvojournals.org/article.aspx?articleid=2776554). ([pdf](papers/JOV_2021.pdf))
