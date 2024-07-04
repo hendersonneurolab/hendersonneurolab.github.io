@@ -1,3 +1,10 @@
+---
+layout: page 
+title: Research
+permalink: /research/
+---
+
+
 Here are a few topics the lab is pursuing currently:
 
 ### Cortical representations of intermediate-level visual features
