@@ -10,6 +10,8 @@ I am an incoming Assistant Professor (starting September 2024) in the [Psycholog
 
 See my full CV [here](files/CV_MH_2024.pdf).
 
+![maggie](/docs/images/maggie_henderson.jpeg)
+
 ### Coming soon!
 
 We're currently recruiting new graduate students and research assistants to join the lab! Reach out to Maggie if you're interested in learning more.
