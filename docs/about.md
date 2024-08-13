@@ -10,3 +10,7 @@ Our lab aims to understand the neural and computational basis of human visual co
 How does visual processing adapt to changes in our goals and internal state? 
 
 To address these questions, we leverage experimental and computational techniques. On the experimental side, we use functional magnetic resonance imaging (fMRI) and behavioral studies performed with healthy human participants. On the computational side, we build and use machine learning models to understand fMRI and behavioral data. We also perform simulated experiments in artificial neural network models, which aim to uncover theoretical principles of visual processing.
+
+<img src="images/Psych_logo.jpg" alt="Psychology Department" width="150"/>
+<img src="images/NI_logo.jpg" alt="Neuroscience Institute" width="150"/>
+<img src="images/CNBC_logo.png" alt="CNBC" width="150"/>
