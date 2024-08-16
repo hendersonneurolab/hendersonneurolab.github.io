@@ -17,6 +17,18 @@ Related past work:
 
 * Henderson, M.M., Tarr, M.J., & Wehbe, L. (2023). Low-level tuning biases in higher visual cortex reflect the semantic informativeness of visual features. [Journal of Vision](https://doi.org/10.1167/jov.23.4.8). ([pdf](papers/JOV_2023.pdf))
 
+<img src="images/texture_encoding_model.jpg" alt="Schematic of an fMRI encoding model based on texture statistics features." width="150"/>
+
+### Natural image statistics & category learning
+
+Our visual environment is highly structured in its feature statistics, with certain features being encountered more often than others. Morevoer, the statistics of our visual inputs may evolve over time during development, due to changes in visual sensitivity as well as visuomotor behavior. How do these properties of the <b>environment provide a curriculum that enables efficient category learning?</b> How is the structure of visual representations constrained by the structure of visual inputs? We're working to address these questions using simulated learning experiments performed in deep neural network models. 
+
+Related past work:
+
+* Jinsi, O.* , Henderson, M.M.*, & Tarr, M.J. (2023). Early experience with low-pass filtered images facilitates visual category learning in a neural network model. [PLOS ONE](https://doi.org/10.1371/journal.pone.0280145). ([pdf](papers/PLOSONE_2023.pdf))
+
+* Henderson, M.M., & Serences, J.T. (2021). Biased orientation representations can be explained by
+experience with non-uniform training set statistics. [Journal of Vision](https://jov.arvojournals.org/article.aspx?articleid=2776554). ([pdf](papers/JOV_2021.pdf))
 
 ### Flexible processing in higher visual cortex
 
@@ -29,13 +41,3 @@ Related past work:
 * Henderson, M.M. & Serences, J.T. (2019). Human frontoparietal cortex represents behaviorally relevant
 target status based on abstract object features. [Journal of Neurophysiology](https://journals.physiology.org/doi/full/10.1152/jn.00015.2019). ([pdf](papers/JNeuroPhys_2019.pdf))
 
-### Natural image statistics & category learning
-
-Our visual environment is highly structured in its feature statistics, with certain features being encountered more often than others. Morevoer, the statistics of our visual inputs may evolve over time during development, due to changes in visual sensitivity as well as visuomotor behavior. How do these properties of the <b>environment provide a curriculum that enables efficient category learning?</b> How is the structure of visual representations constrained by the structure of visual inputs? We're working to address these questions using simulated learning experiments performed in deep neural network models. 
-
-Related past work:
-
-* Jinsi, O.* , Henderson, M.M.*, & Tarr, M.J. (2023). Early experience with low-pass filtered images facilitates visual category learning in a neural network model. [PLOS ONE](https://doi.org/10.1371/journal.pone.0280145). ([pdf](papers/PLOSONE_2023.pdf))
-
-* Henderson, M.M., & Serences, J.T. (2021). Biased orientation representations can be explained by
-experience with non-uniform training set statistics. [Journal of Vision](https://jov.arvojournals.org/article.aspx?articleid=2776554). ([pdf](papers/JOV_2021.pdf))

@@ -6,7 +6,9 @@ permalink: /people/
 
 ### Principal Investigator: Maggie Henderson
 
-<img src="images/maggie_henderson.jpeg" alt="Picture of Maggie" width="200"/>
+<div style="text-align:left">
+	<img src="images/maggie_henderson.jpeg" alt="Picture of Maggie" width="200"/>
+</div>
 
 I am an incoming Assistant Professor (starting September 2024) in the [Psychology Department](https://www.cmu.edu/dietrich/psychology/directory/core-training-faculty/henderson-margaret.html) at CMU, with a courtesy appointment in the [Neuroscience Institute](https://www.cmu.edu/ni/). Prior to this, I was a postdoc at CMU, working with Leila Wehbe and Michael Tarr. Before that, I earned my B.S. in Biological Sciences from Cornell University, then obtained my Ph.D. in Neurosciences from the University of California, San Diego, where I worked with John Serences.
 
