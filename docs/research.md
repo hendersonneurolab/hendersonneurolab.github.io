@@ -17,7 +17,7 @@ Related past work:
 
 * Henderson, M.M., Tarr, M.J., & Wehbe, L. (2023). Low-level tuning biases in higher visual cortex reflect the semantic informativeness of visual features. [Journal of Vision](https://doi.org/10.1167/jov.23.4.8). ([pdf](papers/JOV_2023.pdf))
 
-<img src="images/texture_encoding_model.png" alt="Schematic of an fMRI encoding model based on texture statistics features." width="150"/>
+<img src="images/texture_encoding_model.png" alt="Schematic of an fMRI encoding model based on texture statistics features." width="500"/>
 
 ### Natural image statistics & category learning
 
