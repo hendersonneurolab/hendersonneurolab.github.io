@@ -9,7 +9,7 @@ Here are a few topics the lab is pursuing currently:
 
 ### Cortical representations of intermediate-level visual features
 
-Visual cortex performs hierarchical computations that bridge from simple features like edges and colors to complex features like object and scene parts. What are the representations that lie between these levels of complexity, and how can we understand these intermediate features from a computational perspective? We're aiming to understand <b>how intermediate features are computed in the brain and how they contribute to behavior.</b> Another goal is to determine how our intermediate visual processing is ultimately constrained by the statistical distribution of features in the environment.
+Visual cortex performs hierarchical computations that span from simple features, like edges and colors, to complex features, like object and scene parts. What are the features and representations that bridge between these levels of complexity? We're developing new computational approaches to understand <b>how intermediate visual features are computed in the brain and how they contribute to behavior.</b> We are also aiming to determine how the statistical distribution of features in the environment is reflected in the tuning properties and organization of visual cortex.
 
 Related past work:
 
@@ -32,7 +32,7 @@ experience with non-uniform training set statistics. [Journal of Vision](https:/
 
 ### Flexible processing in higher visual cortex
 
-To support behavioral goals, visual cortex circuits may adaptively adjust stimulus representations according to task-relevance. This idea of flexible neural coding has often been studied in the context of simple laboratory tasks, leading to many open questions about how <b>flexible neural codes might contribute to more naturalistic, high-level visual tasks.</b> How do we selectively attend to a specific category of objects within in a cluttered natural scene? How is the "object space" represented in higher visual cortex warped by changes in behavioral priority? We're addressing these questions using behavior and fMRI studies.
+To support behavioral goals, visual cortex circuits may adaptively adjust stimulus representations according to task-relevance. This idea of flexible neural coding has often been studied using simple tasks with controlled stimuli, leading to many open questions about how <b>flexible neural codes might contribute to more naturalistic, high-level visual tasks.</b> How do we search for a target category of objects within a cluttered natural scene? How is the "object space" represented in higher visual cortex warped by changes in behavioral priority? We're addressing these questions using behavior and fMRI studies.
 
 Related past work:
 

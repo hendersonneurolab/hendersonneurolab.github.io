@@ -6,4 +6,4 @@ permalink: /contact/
 
 Email: mmhender@cmu.edu
 
-Lab location: Baker Hall
+Office location: Baker Hall 335G
