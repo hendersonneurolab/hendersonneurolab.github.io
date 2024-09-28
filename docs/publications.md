@@ -8,11 +8,6 @@ permalink: /publications/
 
 ### Pre-prints & under review
 
-
-Zawar, R., Dewan, S., Luo, A.F., Henderson, M.M., Tarr, M.J, & Wehbe, L. (2024). StableSemantics: A Synthetic Language-Vision Dataset of Semantic Representations in Naturalistic Images. [arXiv](https://arxiv.org/abs/2406.13735); under review.
-
-Yeung, J., Luo, A.F, Sarch, G., Henderson, M.M., Ramanan, D., & Tarr, M.J. (2024). Neural Representations of Dynamic Visual Stimuli. [arXiv](https://arxiv.org/abs/2406.02659); under review.
-
 Henderson, M.M., Serences, J.T., & Rungratsameetaweemana, N. (2023). Dynamic categorization rules alter representations in human visual cortex. [bioRxiv](https://doi.org/10.1101/2023.09.11.557257); under review. 
 
 Luo, A.F., Wehbe, L., Tarr, M.J., & Henderson, M.M. (2023). Neural Selectivity for Real-World Object Size in Natural Images. [bioRxiv](https://doi.org/10.1101/2023.03.17.533179); under review.
