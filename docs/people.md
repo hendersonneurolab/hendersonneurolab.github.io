@@ -8,8 +8,8 @@ permalink: /people/
 
 <div style="width: 100%; display: flex; align-items: center; justify-content: space-between;">
 
-	<div style="width: 20%">
-		<img src="images/maggie_henderson.jpeg" alt="Picture of Maggie" style="width: 100%; height: 100%; border-radius: 50%; object-fit: cover; margin-left: 25%; margin-right: 25%;">
+	<div style="width: 30%">
+		<img src="images/maggie_henderson.jpeg" alt="Picture of Maggie" style="width: 100%; height: 100%; border-radius: 50%; object-fit: cover; margin-left: 5%; margin-right: 5%;">
 	</div>
 		
 	<div style="width: 60%">
