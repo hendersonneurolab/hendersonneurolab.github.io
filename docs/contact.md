@@ -6,4 +6,13 @@ permalink: /contact/
 
 Email: mmhender@cmu.edu
 
-Office location: Baker Hall 335G
+Maggie's office: Baker Hall 335G
+
+Lab space: Baker Hall 446G
+
+#### Note for prospective Ph.D students:
+
+We are currently recruiting graduate students to start in Fall 2025!
+
+Interested students should apply through the Ph.D Program in Neural Computation ([PNC](https://www.cmu.edu/ni/academics/pnc/)), or the Ph.D Programs in [Psychology](https://www.cmu.edu/dietrich/psychology/graduate/index.html) or [Cognitive Neuroscience](https://www.cmu.edu/dietrich/psychology/graduate/index.html). 
+

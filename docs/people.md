@@ -24,6 +24,25 @@ See my full CV <a href="files/CV_MH_2024.pdf">here</a>.
 
 <div style="clear: both;"></div> <!-- Clear floated elements -->
 
-### Coming soon
+### Rotation students
 
-We're currently recruiting new graduate students and research assistants to join the lab! Reach out to Maggie if you're interested in learning more.
+**Grayson Matthew:**
+Rotation student in the CMU [Program in Neural Computation](https://www.cmu.edu/ni/academics/pnc/).
+
+**Wenjie Li:**
+Rotation student in the CMU [Program in Neural Computation](https://www.cmu.edu/ni/academics/pnc/), co-advised with Professor Jessica Cantlon. Personal website: [wenjieli.me](wenjieli.me)
+
+### Undergraduate researchers
+
+**Gaurika Sawhney:**
+Major in Computer Science, Minor in Computational Finance
+
+**Evren Konuk:**
+Major in Cognitive Science, concentration in ArtificialIntelligence
+
+**Ayat Karim:**
+Major in Mathematical Sciences (and Pre-Medical Health Professions Program), Minor in Neuroscience
+
+### Join us!
+
+We are currently recruiting new graduate students and research assistants to join the lab. Email Maggie (mmhender@cmu.edu) to learn more.
