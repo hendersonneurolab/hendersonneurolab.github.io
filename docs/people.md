@@ -24,13 +24,13 @@ See my full CV <a href="files/CV_MH_2024.pdf">here</a>.
 
 <div style="clear: both;"></div> <!-- Clear floated elements -->
 
-### Rotation students
+<!--### Rotation students
 
 **Grayson Matthew:**
 Rotation student in the CMU [Program in Neural Computation](https://www.cmu.edu/ni/academics/pnc/).
 
 **Wenjie Li:**
-Rotation student in the CMU [Program in Neural Computation](https://www.cmu.edu/ni/academics/pnc/), co-advised with Professor Jessica Cantlon. Personal website: [wenjieli.me](https://wenjieli.me)
+Rotation student in the CMU [Program in Neural Computation](https://www.cmu.edu/ni/academics/pnc/), co-advised with Professor Jessica Cantlon. Personal website: [wenjieli.me](https://wenjieli.me)-->
 
 ### Undergraduate researchers
 
