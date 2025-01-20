@@ -43,6 +43,10 @@ Major in Cognitive Science, concentration in ArtificialIntelligence
 **Ayat Karim:**
 Major in Mathematical Sciences (and Pre-Medical Health Professions Program), Minor in Neuroscience
 
+**Meredith Ma:** 
+Major in Cognitive Science, Minor in Artificial Intelligence
+
+
 ### Join us!
 
 We are currently recruiting new graduate students and research assistants to join the lab. Email Maggie (mmhender@cmu.edu) to learn more.
