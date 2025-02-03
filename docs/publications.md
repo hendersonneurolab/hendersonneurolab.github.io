@@ -14,6 +14,10 @@ Luo, A.F., Wehbe, L., Tarr, M.J., & Henderson, M.M. (2023). Neural Selectivity f
 
 ### Peer-reviewed publications
 
+Henderson, M.M., Tarr, M.J., & Wehbe, L. (2025). Origins of food selectivity in human visual cortex. [Trends in Neurosciences](https://doi.org/10.1016/j.tins.2024.12.001).
+
+Luo, A.F., Yeung, J., Zawar, R., Dewan, S., Henderson, M.M., Wehbe, L., & Tarr, M.J. (2025). Brain Mapping with Dense Features: Grounding Cortical Semantic Selectivity in Natural Images with Vision Transformers. ICLR (accepted). ([arXiv](https://doi.org/10.48550/arXiv.2410.05266)).
+
 Luo, A.F., Henderson, M.M., Tarr, M.J, & Wehbe, L. (2024). BrainSCUBA: Fine-Grained Natural Language Captions of Visual Cortex Selectivity. Proceedings of the International Conference on Learning Representations ([ICLR](https://doi.org/10.48550/arXiv.2310.04420)).
 
 Luo, A.F., Henderson, M.M., Wehbe, L., & Tarr, M.J. (2023). Brain Diffusion for Visual Exploration: Cortical Discovery using Large Scale Generative Models. Proceedings of the Conference on Neural Information Processing Systems ([NeurIPS](https://doi.org/10.48550/arXiv.2306.03089)); oral presentation.
