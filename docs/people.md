@@ -16,7 +16,7 @@ permalink: /people/
 		
 I am an Assistant Professor in the <a href="https://www.cmu.edu/dietrich/psychology/directory/core-training-faculty/henderson-maggie.html">Psychology Department</a> at CMU, with a courtesy appointment in the <a href="https://www.cmu.edu/ni/">Neuroscience Institute</a>, also affiliated with the <a href="https://www.ml.cmu.edu/">Machine Learning Department</a>. Prior to this, I was a postdoc at CMU, working with Leila Wehbe and Michael Tarr. Before that, I earned my B.S. in Biological Sciences from Cornell University, then obtained my Ph.D. in Neurosciences from the University of California, San Diego, where I worked with John Serences.
 <br><br>
-See my full CV <a href="files/CV_MH_2024.pdf">here</a>.
+See my full CV <a href="files/CV_MH_2025.pdf">here</a>.
 
 	</div>
 	
@@ -32,7 +32,11 @@ Rotation student in the CMU [Program in Neural Computation](https://www.cmu.edu/
 **Wenjie Li:**
 Rotation student in the CMU [Program in Neural Computation](https://www.cmu.edu/ni/academics/pnc/), co-advised with Professor Jessica Cantlon. Personal website: [wenjieli.me](https://wenjieli.me)-->
 
-### Undergraduate researchers
+### M.S. students 
+
+**Ziyu Li:** M.S. in Computational Biology Program
+
+### Undergraduate students
 
 **Gaurika Sawhney:**
 Major in Computer Science, Minor in Computational Finance
