@@ -8,11 +8,11 @@ permalink: /publications/
 
 ### Pre-prints & under review
 
-Henderson, M.M., Serences, J.T., & Rungratsameetaweemana, N. (2023). Dynamic categorization rules alter representations in human visual cortex. [bioRxiv](https://doi.org/10.1101/2023.09.11.557257); under review. 
-
 Luo, A.F., Wehbe, L., Tarr, M.J., & Henderson, M.M. (2023). Neural Selectivity for Real-World Object Size in Natural Images. [bioRxiv](https://doi.org/10.1101/2023.03.17.533179); under review.
 
 ### Peer-reviewed publications
+
+Henderson, M.M., Serences, J.T., & Rungratsameetaweemana, N. (2025). Dynamic categorization rules alter representations in human visual cortex. Nature Communications; *in-press*. ([preprint](https://doi.org/10.1101/2023.09.11.557257)).
 
 Henderson, M.M., Tarr, M.J., & Wehbe, L. (2025). Origins of food selectivity in human visual cortex. [Trends in Neurosciences](https://doi.org/10.1016/j.tins.2024.12.001).
 
