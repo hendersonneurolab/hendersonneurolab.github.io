@@ -4,7 +4,7 @@ title: About the lab
 permalink: /about/
 ---
 
-We are a computational neuroscience lab in the [Psychology Department](https://www.cmu.edu/dietrich/psychology/) at Carnegie Mellon University, led by Dr. Maggie Henderson. We are also affiliated with the [Neuroscience Institute](https://www.cmu.edu/ni/), the Center for the Neural Basis of Cognition ([CNBC](https://www.cnbc.cmu.edu/)), and the [Machine Learning Department](https://www.ml.cmu.edu/).
+We are a computational neuroscience lab in the [Psychology Department](https://www.cmu.edu/dietrich/psychology/) and [Neuroscience Institute](https://www.cmu.edu/ni/) at Carnegie Mellon University, led by Dr. Maggie Henderson. We are also affiliated with the Center for the Neural Basis of Cognition ([CNBC](https://www.cnbc.cmu.edu/)) and the [Machine Learning Department](https://www.ml.cmu.edu/).
 
 Our lab aims to understand the neural and computational basis of human visual cognition. How do we extract meaningful, high-level information from noisy visual inputs? How does this process take into account the statistical structure of the world we live in? 
 How does visual processing adapt to changes in our goals and internal state? 
