@@ -36,7 +36,7 @@ To support behavioral goals, visual cortex circuits may adaptively adjust stimul
 
 Related past work:
 
-* Henderson, M.M., Serences, J.T., & Rungratsameetaweemana, N. (2023). Dynamic categorization rules alter representations in human visual cortex. [bioRxiv](https://doi.org/10.1101/2023.09.11.557257); under review. 
+* Henderson, M.M., Serences, J.T., & Rungratsameetaweemana, N. (2025). Dynamic categorization rules alter representations in human visual cortex. [Nature Communications](https://doi.org/10.1038/s41467-025-58707-4). ([pdf](papers/NatureCommunications_2025.pdf))
 
 * Henderson, M.M. & Serences, J.T. (2019). Human frontoparietal cortex represents behaviorally relevant
 target status based on abstract object features. [Journal of Neurophysiology](https://journals.physiology.org/doi/full/10.1152/jn.00015.2019). ([pdf](papers/JNeuroPhys_2019.pdf))
