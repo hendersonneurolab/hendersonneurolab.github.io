@@ -110,7 +110,7 @@ permalink: /people/
 
 <div style="width: 100%; display: flex; align-items: center; justify-content: space-between; margin-bottom: 2rem;">
 	<div style="width: 30%; flex-shrink: 0; aspect-ratio: 1;">
-		<img src="images/ziyu.jpg" alt="Picture of Ziyu" style="width: 100%; height: 100%; border-radius: 50%; object-fit: cover; object-position: center;">
+		<img src="images/ziyu.JPG" alt="Picture of Ziyu" style="width: 100%; height: 100%; border-radius: 50%; object-fit: cover; object-position: center;">
 	</div>
 	
 	<div style="width: 65%; padding-left: 2rem;">
