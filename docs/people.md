@@ -26,18 +26,16 @@ See my full CV <a href="files/CV_MH_2025.pdf">here</a>.
 
 ### Ph.D Students
 
-
-<div style="width: 100%; display: flex; align-items: center; justify-content: space-between;">
-
-	<div style="width: 30%">
-		<img src="images/tamar.jpg" alt="Picture of Tamar" style="width: 100%; height: 100%; border-radius: 50%; object-fit: cover; margin-left: 5%; margin-right: 5%;">
+<div style="width: 100%; display: flex; align-items: center; justify-content: space-between; margin-bottom: 2rem;">
+	<div style="width: 30%; flex-shrink: 0; aspect-ratio: 1;">
+		<img src="images/tamar.jpg" alt="Picture of Tamar" style="width: 100%; height: 100%; border-radius: 50%; object-fit: cover; object-position: center;">
 	</div>
-		
-	<div style="width: 60%">
+	
+	<div style="width: 65%; padding-left: 2rem;">
 
-<b>Tamar Japaridze</b>		
-<br>
-I am from Tbilisi, Georgia (the country). I’m interested in how the human mind and brain represent concepts and build semantic maps. Specifically, I’d like to explore conceptual representations across visual, linguistic, and other modalities in the brain. I aim to use computational modeling and fMRI to study this topic. Fun fact: I can lick my elbow (rare ability)!
+	<b>Tamar Japaridze</b>		
+	<br>
+	I am from Tbilisi, Georgia (the country). I’m interested in how the human mind and brain represent concepts and build semantic maps. Specifically, I’d like to explore conceptual representations across visual, linguistic, and other modalities in the brain. I aim to use computational modeling and fMRI to study this topic. Fun fact: I can lick my elbow (rare ability)!
 
 	</div>
 	
