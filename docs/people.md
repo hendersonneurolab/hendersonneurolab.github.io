@@ -38,7 +38,7 @@ permalink: /people/
 
 	<b>Tamar Japaridze</b>
 	<br>
-	<i>PhD program in Cognitive Neuroscience</i>
+	<i>Ph.D program in Cognitive Neuroscience</i>
 	<br>
 	I am from Tbilisi, Georgia (the country). I’m interested in how the human mind and brain represent concepts and build semantic maps. Specifically, I’d like to explore conceptual representations across visual, linguistic, and other modalities in the brain. I aim to use computational modeling and fMRI to study this topic. Fun fact: I can lick my elbow (rare ability)!
 
@@ -56,7 +56,7 @@ permalink: /people/
 
 	<b>Yuhan Shi</b>
 	<br>
-	<i>PhD program in Cognitive Neuroscience 
+	<i>Ph.D program in Cognitive Neuroscience 
 	<br>
 	(co-supervised with <a href="https://www.cmu.edu/dietrich/psychology/directory/core-training-faculty/susanne-ferber.html">Susanne Ferber</a>)</i>
 	<br>
@@ -76,7 +76,7 @@ permalink: /people/
 
 	<b>Junru Zhao</b>
 	<br>
-	<i>PhD program in Cognitive Neuroscience 
+	<i>Ph.D program in Cognitive Neuroscience 
 	</i>
 	<br>
 	My research interests lie at the intersection of human cognition and artificial intelligence. I study how the brain processes different levels of visual features, and I leverage these insights to design more effective and cognitively inspired AI systems. I was born in Beijing, a city where thousands of years of history meet modern life, and I love teaching people how to speak 地道的北京话 (the real Beijing way of speaking). Outside the lab, you can usually find me on the tennis or basketball court, behind a camera, or enjoying a Broadway musical.
@@ -96,7 +96,7 @@ permalink: /people/
 
 	<b>Jimmy Pulido Arias</b>
 	<br>
-	<i>PhD program in Neural Computation (PNC)
+	<i>Ph.D program in Neural Computation (PNC)
 	</i>
 	<br>
 	 I have a background in computer science and AI (B.S. from the National University of Colombia) and Neuroengineering (M.S. from CNU in Korea). My research interests include BCI, computational neuroscience, Machine Learning and NeuroAI. Outside of the lab, you can find me cycling, hiking, cooking and cultivating coffee in Colombia.
@@ -117,7 +117,7 @@ permalink: /people/
 
 	<b>Ziyu Li</b>
 	<br>
-	<i>M.S. in Computational Biology
+	<i>M.S. program in Computational Biology
 	</i>
 	<br>
 	 I am a master student at CMU studying computational biology, interested in human behavioral categorization using computational model. I enjoy all kinds of outdoor activities and sports.
