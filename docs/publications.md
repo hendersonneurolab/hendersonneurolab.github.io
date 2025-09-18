@@ -12,13 +12,15 @@ Luo, A.F., Wehbe, L., Tarr, M.J., & Henderson, M.M. (2023). Neural Selectivity f
 
 ### Peer-reviewed publications
 
+Yu, M., Nan, M., Adeli, H., Prince, J.S., Pyles, J.A., Wehbe, L., Henderson, M.M., Tarr, M.J., & Luo, A.F. (2025). Meta-learning an in-context transformer model of human higher visual cortex. (accepted to NeurIPS). ([arXiv](https://arxiv.org/abs/2505.15813))
+
 Henderson, M.M., Serences, J.T., & Rungratsameetaweemana, N. (2025). Dynamic categorization rules alter representations in human visual cortex. [Nature Communications](https://doi.org/10.1038/s41467-025-58707-4). ([pdf](papers/NatureCommunications_2025.pdf)). Featured in: [Columbia Engineering News](https://www.engineering.columbia.edu/about/news/how-thoughts-influence-what-eyes-see).
 
-Yeung, J., Luo, A.F., Sarch, G.H., Henderson, M.M., Ramanan, D., & Tarr, M.J. (2025). Reanimating images using neural representations of dynamic stimuli. Conference on Computer Vision and Pattern Recognition (CVPR; accepted for oral presentation). ([arXiv](https://arxiv.org/abs/2406.02659)). 
+Yeung, J., Luo, A.F., Sarch, G.H., Henderson, M.M., Ramanan, D., & Tarr, M.J. (2025). Reanimating images using neural representations of dynamic stimuli. Conference on Computer Vision and Pattern Recognition ([CVPR](https://arxiv.org/abs/2406.02659)); oral presentation. 
 
 Henderson, M.M., Tarr, M.J., & Wehbe, L. (2025). Origins of food selectivity in human visual cortex. [Trends in Neurosciences](https://doi.org/10.1016/j.tins.2024.12.001). Featured in: [CMU Dietrich College News](https://www.cmu.edu/dietrich/news/news-stories/2025/february/food-selectivity-origins-in-the-brain.html).
 	
-Luo, A.F., Yeung, J., Zawar, R., Dewan, S., Henderson, M.M., Wehbe, L., & Tarr, M.J. (2025). Brain Mapping with Dense Features: Grounding Cortical Semantic Selectivity in Natural Images with Vision Transformers. Proceedings of the International Conference on Learning Representations (ICLR; accepted). ([arXiv](https://doi.org/10.48550/arXiv.2410.05266)).
+Luo, A.F., Yeung, J., Zawar, R., Dewan, S., Henderson, M.M., Wehbe, L., & Tarr, M.J. (2025). Brain Mapping with Dense Features: Grounding Cortical Semantic Selectivity in Natural Images with Vision Transformers. Proceedings of the International Conference on Learning Representations ([ICLR](https://doi.org/10.48550/arXiv.2410.05266)).
 
 Luo, A.F., Henderson, M.M., Tarr, M.J, & Wehbe, L. (2024). BrainSCUBA: Fine-Grained Natural Language Captions of Visual Cortex Selectivity. Proceedings of the International Conference on Learning Representations ([ICLR](https://doi.org/10.48550/arXiv.2310.04420)).
 
