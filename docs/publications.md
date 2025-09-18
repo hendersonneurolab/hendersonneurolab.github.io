@@ -18,8 +18,7 @@ Henderson, M.M., Serences, J.T., & Rungratsameetaweemana, N. (2025). Dynamic cat
 
 Yeung, J., Luo, A.F., Sarch, G.H., Henderson, M.M., Ramanan, D., & Tarr, M.J. (2025). Reanimating images using neural representations of dynamic stimuli. Conference on Computer Vision and Pattern Recognition ([CVPR](https://arxiv.org/abs/2406.02659)); oral presentation. 
 
-Henderson, M.M., Tarr, M.J., & Wehbe, L. (2025). Origins of food selectivity in human visual cortex. [Trends in Neurosciences](https://doi.org/10.1016/j.tins.2024.12.001). [pdf](papers/TINS_2025.pdf))
-. Featured in: [CMU Dietrich College News](https://www.cmu.edu/dietrich/news/news-stories/2025/february/food-selectivity-origins-in-the-brain.html).
+Henderson, M.M., Tarr, M.J., & Wehbe, L. (2025). Origins of food selectivity in human visual cortex. [Trends in Neurosciences](https://doi.org/10.1016/j.tins.2024.12.001). ([pdf](papers/TINS_2025.pdf)). Featured in: [CMU Dietrich College News](https://www.cmu.edu/dietrich/news/news-stories/2025/february/food-selectivity-origins-in-the-brain.html).
 	
 Luo, A.F., Yeung, J., Zawar, R., Dewan, S., Henderson, M.M., Wehbe, L., & Tarr, M.J. (2025). Brain Mapping with Dense Features: Grounding Cortical Semantic Selectivity in Natural Images with Vision Transformers. Proceedings of the International Conference on Learning Representations ([ICLR](https://doi.org/10.48550/arXiv.2410.05266)).
 
