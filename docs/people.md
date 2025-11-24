@@ -130,7 +130,7 @@ permalink: /people/
 
 <div style="width: 100%; display: flex; align-items: center; justify-content: space-between; margin-bottom: 2rem;">
 	<div style="width: 30%; flex-shrink: 0; aspect-ratio: 1;">
-		<img src="images/lucas.png" alt="Picture of Lucas" style="width: 100%; height: 100%; border-radius: 50%; object-fit: cover; object-position: center;">
+		<img src="images/lucas.png" alt="Picture of Lucas" style="width: 100%; height: 100%; border-radius: 50%; object-fit: cover; object-position: center; image-rendering: -webkit-optimize-contrast; transform: translateZ(0); backface-visibility: hidden;">
 	</div>
 	
 	<div style="width: 65%; padding-left: 2rem;">
@@ -151,12 +151,12 @@ permalink: /people/
 
 <div style="width: 100%; display: flex; align-items: center; justify-content: space-between; margin-bottom: 2rem;">
 	<div style="width: 30%; flex-shrink: 0; aspect-ratio: 1;">
-		<img src="images/stephanie.jpg" alt="Picture of Stephanie" style="width: 100%; height: 100%; border-radius: 50%; object-fit: cover; object-position: center;">
+		<img src="images/stephanie.jpg" alt="Picture of Stephanie" style="width: 100%; height: 100%; border-radius: 50%; object-fit: cover; object-position: center; image-rendering: -webkit-optimize-contrast; transform: translateZ(0); backface-visibility: hidden;">
 	</div>
 	
 	<div style="width: 65%; padding-left: 2rem;">
 
-	<b>Lucas Piper</b>
+	<b>Stephanie Lu</b>
 	<br>
 	<i> Cognitive Science (concentration in AI) and Human-Computer Interaction
 	</i>
