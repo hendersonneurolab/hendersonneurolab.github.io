@@ -125,7 +125,28 @@ permalink: /people/
 	
 </div>
 
-### Undergraduate students
+### Visiting Students
+
+
+<div style="width: 100%; display: flex; align-items: center; justify-content: space-between; margin-bottom: 2rem;">
+	<div style="width: 30%; flex-shrink: 0; aspect-ratio: 1;">
+		<img src="images/lucas.png" alt="Picture of Lucas" style="width: 100%; height: 100%; border-radius: 50%; object-fit: cover; object-position: center;">
+	</div>
+	
+	<div style="width: 65%; padding-left: 2rem;">
+
+	<b>Lucas Piper</b>
+	<br>
+	<i>CMU Portugal Visiting Student Program
+	</i>
+	<br>
+	 My work lies at the intersection of neuroscience and computer vision. I’m currently exploring how spatial frequency constraints derived from fMRI data can be used to regularize vision models. Previously, I completed my master’s at the University of Lisbon, where I developed a module of subcortical visual processing to improve model robustness to image perturbations. Outside the lab, I enjoy training, photography, and mixing music.
+	</div>
+	
+</div>
+
+
+### Undergraduate Students
 
 
 <div style="width: 100%; display: flex; align-items: center; justify-content: space-between; margin-bottom: 2rem;">
@@ -135,7 +156,7 @@ permalink: /people/
 	
 	<div style="width: 65%; padding-left: 2rem;">
 
-	<b>Stephanie Lu</b>
+	<b>Lucas Piper</b>
 	<br>
 	<i> Cognitive Science (concentration in AI) and Human-Computer Interaction
 	</i>
