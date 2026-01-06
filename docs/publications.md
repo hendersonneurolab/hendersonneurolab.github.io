@@ -16,7 +16,7 @@ Henderson, M.M. (2025). Visual input statistics and behavioral relevance jointly
 
 Yu, M., Nan, M., Adeli, H., Prince, J.S., Pyles, J.A., Wehbe, L., Henderson, M.M., Tarr, M.J., & Luo, A.F. (2025). Meta-learning an in-context transformer model of human higher visual cortex. Proceedings of the Conference on Neural Information Processing Systems ([NeurIPS](https://arxiv.org/abs/2505.15813)).
 
-Lahner, B., Luo, A., Prince, J.S., Deb, M., Henderson, M.M., Pyles, J.A., Oliva, A., Ratan Murty, N.A., Wehbe, L., & Tarr, M.J (2025). CONFORM: A Project to Create Crowd-Sourced Open Neuroscience fMRI Foundation Models. [NeurIPS Foundation Models for the Brain and Body Workshop, NeurIPS Data on the Brain & Mind Workshop (tutorial).](https://mjtarr.github.io/conform/)
+Lahner, B., Luo, A., Prince, J.S., Deb, M., Henderson, M.M., Pyles, J.A., Wehbe, L., Oliva, A., Ratan Murty, N.A., & Tarr, M.J (2025). CONFORM: A Project to Create Crowd-Sourced Open Neuroscience fMRI Foundation Models. [NeurIPS Foundation Models for the Brain and Body Workshop, NeurIPS Data on the Brain & Mind Workshop (tutorial).](https://mjtarr.github.io/conform/)
 
 Henderson, M.M., Serences, J.T., & Rungratsameetaweemana, N. (2025). Dynamic categorization rules alter representations in human visual cortex. [Nature Communications](https://doi.org/10.1038/s41467-025-58707-4). ([pdf](papers/NatureCommunications_2025.pdf)). Featured in: [Columbia Engineering News](https://www.engineering.columbia.edu/about/news/how-thoughts-influence-what-eyes-see).
 
