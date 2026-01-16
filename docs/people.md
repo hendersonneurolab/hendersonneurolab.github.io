@@ -167,6 +167,24 @@ permalink: /people/
 </div>
 
 
+<div style="width: 100%; display: flex; align-items: center; justify-content: space-between; margin-bottom: 2rem;">
+	<div style="width: 30%; flex-shrink: 0; aspect-ratio: 1;">
+		<img src="images/ahana.png" alt="Picture of Ahana" style="width: 100%; height: 100%; border-radius: 50%; object-fit: cover; object-position: center; image-rendering: -webkit-optimize-contrast; transform: translateZ(0); backface-visibility: hidden;">
+	</div>
+	
+	<div style="width: 65%; padding-left: 2rem;">
+
+	<b>Ahana Dey</b>
+	<br>
+	<i> Computational Neuroscience, minor in Artificial Intelligence
+	</i>
+	<br>
+	 Hello! I am a undergraduate student studying Computational Neuroscience with an minor in Artificial Intelligence. My research interests lie in the intersection of neuroscience, computation, and analysis and I'm especially intrigued by how computational methodologies such as machine learning and modeling can be leveraged to study human visual behavior. Outside of the lab, I love to binge dramas, listen to unhealthy amounts of music, and travel around with friends and family!
+	</div>
+	
+</div>
+
+
 ### Lab Alumni
 
 
