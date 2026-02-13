@@ -125,7 +125,7 @@ permalink: /people/
 	
 </div>
 
-### Visiting Students
+<!--### Visiting Students
 
 
 <div style="width: 100%; display: flex; align-items: center; justify-content: space-between; margin-bottom: 2rem;">
@@ -145,7 +145,7 @@ permalink: /people/
 	
 </div>
 
-
+-->
 ### Undergraduate Students
 
 
@@ -187,6 +187,10 @@ permalink: /people/
 
 ### Lab Alumni
 
+**Lucas Piper** (INESC-ID; IST, University of Lisbon)
+<br>
+<i>Visiting M.S. student through CMU-Portugal visiting student program, 2025</i>
+<br>
 
 **Dylan Diaz** (California State University, San Bernardino)
 <br>

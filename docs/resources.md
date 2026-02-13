@@ -4,11 +4,16 @@ title: Resources & Data
 permalink: /resources/
 ---
 
+Datasets and code from our past research can be found here:
 
-Datasets and code from past research can currently be found here: 
+- [Open Science Framework](https://osf.io/v8b2r/)
 
-[Open Science Framework](https://osf.io/v8b2r/)
+- The lab's [GitHub](https://github.com/hendersonneurolab) page
 
-[Github](https://github.com/mmhenderson)
+- Maggie's [GitHub](https://github.com/mmhenderson) page
 
-Stay tuned for updates!
+Other resources:
+
+- For modeling and analysis tutorials, check out the [Colab notebooks](https://github.com/hendersonneurolab/CogAI_Fall2025) from Maggie's CMU course ("Cognition in the Age of AI").
+
+- Stay tuned for updates!
