@@ -84,7 +84,7 @@ permalink: /people/
 	
 </div>
 
-
+<!--
 ### Ph.D Rotation Students
 
 <div style="width: 100%; display: flex; align-items: center; justify-content: space-between; margin-bottom: 2rem;">
@@ -103,7 +103,7 @@ permalink: /people/
 	</div>
 	
 </div>
-
+-->
 
 
 ### M.S. Students 
