@@ -46,7 +46,7 @@ permalink: /photos/
   <div>
     <img src="images/Lunch2025.jpg" alt="Lab photo at Ali Baba restaurant."
          style="width: 100%; height: auto; display: block; border-radius: 8px;">
-    <p style="font-size: 13px; color: #666; margin-top: 8px;">Lunch selfie at Ali Baba! Winter 2025.</p>
+    <p style="font-size: 13px; color: #666; margin-top: 8px;">Lunch selfie at Ali Baba, Winter 2025.</p>
   </div>
 
 
