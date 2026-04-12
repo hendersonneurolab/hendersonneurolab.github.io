@@ -12,7 +12,10 @@ Luo, A.F., Wehbe, L., Tarr, M.J., & Henderson, M.M. (2023). Neural Selectivity f
 
 ### Peer-reviewed publications
 
-Henderson, M.M. (2025). Visual input statistics and behavioral relevance jointly constrain higher visual cortex organization. Commentary in [Cognitive Neuroscience](https://doi.org/10.1080/17588928.2025.2591254). ([pdf](papers/CogNeuroCommentary_2025.pdf))
+Nan, M., Yu, M., Mai, W., Prince, J. S., Adeli, H., Zhang, R., Cao, J., Becker, B., Pyles, J. A., Henderson, M. M., Song, C., Kriegeskorte, N., Tarr, M. J., Hu, X., Luo, A. F. (2026). Meta-Learning In-Context Enables Training-Free Cross Subject Brain Decoding. Conference on Computer Vision and Pattern Recognition ([CVPR](https://arxiv.org/abs/2604.08537  
+); accepted).  
+
+Henderson, M.M. (2026). Visual input statistics and behavioral relevance jointly constrain higher visual cortex organization. Commentary in [Cognitive Neuroscience](https://doi.org/10.1080/17588928.2025.2591254). ([pdf](papers/CogNeuroCommentary_2025.pdf))
 
 Yu, M., Nan, M., Adeli, H., Prince, J.S., Pyles, J.A., Wehbe, L., Henderson, M.M., Tarr, M.J., & Luo, A.F. (2025). Meta-learning an in-context transformer model of human higher visual cortex. Proceedings of the Conference on Neural Information Processing Systems ([NeurIPS](https://arxiv.org/abs/2505.15813)).
 
