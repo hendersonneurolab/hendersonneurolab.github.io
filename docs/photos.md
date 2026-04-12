@@ -32,7 +32,7 @@ permalink: /photos/
   </div>
   
   <div>
-    <img src="images/Apples_Ziyu_Yuhan.jpg" alt="Junru at Soergel Orchards."
+    <img src="images/Apples_Junru.jpg" alt="Junru at Soergel Orchards."
          style="width: 100%; height: auto; display: block; border-radius: 8px;">
     <p style="font-size: 13px; color: #666; margin-top: 8px;">Junru shows his basketball skills!</p>
   </div>
