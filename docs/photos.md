@@ -7,6 +7,13 @@ permalink: /photos/
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1.5rem; padding: 1rem 0;">
 
+
+  <div>
+    <img src="images/Dinner_Spring2026.jpg" alt="Lab dinner at Nan Xiang Xiao Long Bao, April 2026."
+         style="width: 100%; height: auto; display: block; border-radius: 8px;">
+    <p style="font-size: 13px; color: #666; margin-top: 8px;">Lab dinner at Nan Xiang Xiao Long Bao, April 2026.</p>
+  </div>
+
   
   <div>
     <img src="images/Lunch2025.jpg" alt="Lab photo at Ali Baba restaurant."
@@ -18,7 +25,7 @@ permalink: /photos/
 	<div>
     <img src="images/EscapeRoom.jpg" alt="Lab photo at Escape Room Pittsburgh."
          style="width: 100%; height: auto; display: block; border-radius: 8px;">
-    <p style="font-size: 13px; color: #666; margin-top: 8px;">We escaped from the Diamond Heist escape room, with time to spare! Fall 2025.</p>
+    <p style="font-size: 13px; color: #666; margin-top: 8px;">Escape from the Diamond Heist escape room! Fall 2025.</p>
   </div>
 
 
