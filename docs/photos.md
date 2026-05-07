@@ -36,7 +36,7 @@ permalink: /photos/
   <div>
     <img src="images/Yuhan_2026.jpg" alt="Yuhan with many steamer baskets."
          style="width: 100%; height: auto; display: block; border-radius: 8px;">
-    <p style="font-size: 13px; color: #666; margin-top: 8px;">Yuhan is in charge of the dumplings.</p>
+    <p style="font-size: 13px; color: #666; margin-top: 8px;">Yuhan is in charge of the soup dumplings.</p>
   </div>
   
   
