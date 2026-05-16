@@ -8,9 +8,13 @@ permalink: /publications/
 
 ### Pre-prints & under review
 
+Henderson, M.M., Luo, A.F., Park, S., Tarr, M.J, & Wehbe, L. (2026). Diffusion-based stimulus optimization reveals functional organization across higher visual cortex. [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.05.12.724119v1); in submission.
+ 
 Luo, A.F., Wehbe, L., Tarr, M.J., & Henderson, M.M. (2023). Neural Selectivity for Real-World Object Size in Natural Images. [bioRxiv](https://doi.org/10.1101/2023.03.17.533179); under review.
 
 ### Peer-reviewed publications
+
+Diaz, D., & Henderson, M.M. (2026). Eccentricity-Constrained CNN Training Reveals Adaptive Information Coding Around the Visual Field. Proceedings of the Conference on Cognitive Computational Neuroscience (CCN; accepted).
 
 Nan, M., Yu, M., Mai, W., Prince, J. S., Adeli, H., Zhang, R., Cao, J., Becker, B., Pyles, J. A., Henderson, M. M., Song, C., Kriegeskorte, N., Tarr, M. J., Hu, X., Luo, A. F. (2026). Meta-Learning In-Context Enables Training-Free Cross Subject Brain Decoding. Conference on Computer Vision and Pattern Recognition ([CVPR](https://arxiv.org/abs/2604.08537  
 ); accepted).  
