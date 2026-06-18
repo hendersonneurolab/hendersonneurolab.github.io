@@ -14,7 +14,7 @@ Luo, A.F., Wehbe, L., Tarr, M.J., & Henderson, M.M. (2023). Neural Selectivity f
 
 ### Peer-reviewed publications
 
-Diaz, D., & Henderson, M.M. (2026). Eccentricity-Constrained CNN Training Reveals Adaptive Information Coding Around the Visual Field. Proceedings of the Conference on Cognitive Computational Neuroscience (CCN; accepted).
+Diaz, D., & Henderson, M.M. (2026). Eccentricity-Constrained CNN Training Reveals Adaptive Information Coding Around the Visual Field. Proceedings of the Conference on Cognitive Computational Neuroscience ([CCN](https://doi.org/10.32470/0416gfsq)). ([pdf](papers/Diaz_CCN_2026)).
 
 Nan, M., Yu, M., Mai, W., Prince, J. S., Adeli, H., Zhang, R., Cao, J., Becker, B., Pyles, J. A., Henderson, M. M., Song, C., Kriegeskorte, N., Tarr, M. J., Hu, X., Luo, A. F. (2026). Meta-Learning In-Context Enables Training-Free Cross Subject Brain Decoding. Conference on Computer Vision and Pattern Recognition ([CVPR](https://arxiv.org/abs/2604.08537  
 ); accepted).  
