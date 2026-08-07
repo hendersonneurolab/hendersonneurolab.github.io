@@ -32,6 +32,13 @@ permalink: /photos/
 
 
   <div>
+    <img src="images/2026_CCN_lunch.png" alt="Lab lunch at CCN 2026 (spot the surprise!)"
+         style="width: 100%; height: auto; display: block; border-radius: 8px;">
+    <p style="font-size: 13px; color: #666; margin-top: 8px;">Lab lunch at CCN, August 2026.</p>
+  </div>
+  
+
+  <div>
     <img src="images/BrownBag2026.jpg" alt="Psychology Department Brown Bag presentations, spring 2026."
          style="width: 100%; height: auto; display: block; border-radius: 8px;">
     <p style="font-size: 13px; color: #666; margin-top: 8px;">Junru, Yuhan, & Tamar complete their first departmental Brown Bag presentations, May 2026.</p>
