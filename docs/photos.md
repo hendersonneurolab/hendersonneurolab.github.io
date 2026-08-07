@@ -10,6 +10,28 @@ permalink: /photos/
 
 
   <div>
+    <img src="images/2026_CCN_Yuhan_poster.png" alt="Yuhan's poster at CCN 2026"
+         style="width: 100%; height: auto; display: block; border-radius: 8px;">
+    <p style="font-size: 13px; color: #666; margin-top: 8px;">Yuhan presents a poster at CCN! August 6th 2026.</p>
+  </div>
+  
+
+  <div>
+    <img src="images/2026_CCN_Junru_poster.png" alt="Junru's poster at CCN 2026"
+         style="width: 100%; height: auto; display: block; border-radius: 8px;">
+    <p style="font-size: 13px; color: #666; margin-top: 8px;">Junru's CCN poster!</p>
+  </div>
+  
+  
+
+  <div>
+    <img src="images/2026_CCN_Dylan_poster.png" alt="Dylan's poster at CCN 2026"
+         style="width: 100%; height: auto; display: block; border-radius: 8px;">
+    <p style="font-size: 13px; color: #666; margin-top: 8px;">Dylan's CCN poster!</p>
+  </div>
+
+
+  <div>
     <img src="images/BrownBag2026.jpg" alt="Psychology Department Brown Bag presentations, spring 2026."
          style="width: 100%; height: auto; display: block; border-radius: 8px;">
     <p style="font-size: 13px; color: #666; margin-top: 8px;">Junru, Yuhan, & Tamar complete their first departmental Brown Bag presentations, May 2026.</p>
