@@ -32,7 +32,7 @@ permalink: /photos/
 
 
   <div>
-    <img src="images/2026_CCN_lunch.png" alt="Lab lunch at CCN 2026 (spot the surprise!)"
+    <img src="images/2026_CCN_lunch.jpg" alt="Lab lunch at CCN 2026 (spot the surprise!)"
          style="width: 100%; height: auto; display: block; border-radius: 8px;">
     <p style="font-size: 13px; color: #666; margin-top: 8px;">Lab lunch at CCN, August 2026.</p>
   </div>
