@@ -8,13 +8,13 @@ permalink: /publications/
 
 ### Pre-prints & under review
 
-Henderson, M.M., Luo, A.F., Park, S., Tarr, M.J, & Wehbe, L. (2026). Diffusion-based stimulus optimization reveals functional organization across higher visual cortex. [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.05.12.724119v1); in submission.
+Henderson, M.M., Luo, A.F., Park, S., Tarr, M.J, & Wehbe, L. (2026). Diffusion-based stimulus optimization reveals functional organization across higher visual cortex. [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.05.12.724119v1); under review.
  
-Luo, A.F., Wehbe, L., Tarr, M.J., & Henderson, M.M. (2023). Neural Selectivity for Real-World Object Size in Natural Images. [bioRxiv](https://doi.org/10.1101/2023.03.17.533179); under review.
+Luo, A.F., Wehbe, L., Tarr, M.J., & Henderson, M.M. (2023). Neural Selectivity for Real-World Object Size in Natural Images. [bioRxiv](https://doi.org/10.1101/2023.03.17.533179); in revision.
 
 ### Peer-reviewed publications
 
-Diaz, D., & Henderson, M.M. (2026). Eccentricity-Constrained CNN Training Reveals Adaptive Information Coding Around the Visual Field. Proceedings of the Conference on Cognitive Computational Neuroscience ([CCN](https://doi.org/10.32470/0416gfsq)). ([arXiv](https://arxiv.org/abs/2607.19316)). ([pdf](papers/Diaz_CCN_2026.pdf)).
+Diaz, D., & Henderson, M.M. (2026). Eccentricity-Constrained CNN Training Reveals Adaptive Information Coding Around the Visual Field. Proceedings of the Conference on Cognitive Computational Neuroscience ([CCN](https://doi.org/10.32470/0416gfsq)). ([arXiv](https://arxiv.org/abs/2607.19316)). ([pdf](papers/Diaz_CCN_2026.pdf)). ([code & models](https://github.com/DM-Diaz/eccentricity-constrained-simclr)).
 
 Li, J., Boni, I., Sandwick, L.R., Sanford, E.M., DeLong, C.M., Li, W., Henderson, M.M., Piantadosi, S.T., & Cantlon, J.F. (2026). Continuity in geometric intuition between humans and monkeys. [Proceedings of the National Academy of Sciences](https://doi.org/10.1073/pnas.2532934123). 
 
