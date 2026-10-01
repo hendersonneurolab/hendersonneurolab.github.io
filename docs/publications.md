@@ -8,6 +8,10 @@ permalink: /publications/
 
 ### Pre-prints & under review
 
+Zhao, J., Guo, H., Luo, A.F., & Henderson, M.M. (2026). Receptive-field-constrained stimulus optimization for human early and intermediate visual cortex. [arXiv](https://doi.org/10.48550/arXiv.2609.36391); under review.
+
+Inabathini, I., & Henderson, M.M. (2026). Cross-attention encoding models reveal dynamic spatiotemporal routing across human higher visual cortex. [arXiv](https://doi.org/10.48550/arXiv.2609.36366); under review.
+
 Henderson, M.M., Luo, A.F., Park, S., Tarr, M.J, & Wehbe, L. (2026). Diffusion-based stimulus optimization reveals functional organization across higher visual cortex. [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.05.12.724119v1); under review.
  
 Luo, A.F., Wehbe, L., Tarr, M.J., & Henderson, M.M. (2023). Neural Selectivity for Real-World Object Size in Natural Images. [bioRxiv](https://doi.org/10.1101/2023.03.17.533179); in revision.
@@ -19,7 +23,7 @@ Diaz, D., & Henderson, M.M. (2026). Eccentricity-Constrained CNN Training Reveal
 Li, J., Boni, I., Sandwick, L.R., Sanford, E.M., DeLong, C.M., Li, W., Henderson, M.M., Piantadosi, S.T., & Cantlon, J.F. (2026). Continuity in geometric intuition between humans and monkeys. [Proceedings of the National Academy of Sciences](https://doi.org/10.1073/pnas.2532934123). 
 
 Nan, M., Yu, M., Mai, W., Prince, J. S., Adeli, H., Zhang, R., Cao, J., Becker, B., Pyles, J. A., Henderson, M. M., Song, C., Kriegeskorte, N., Tarr, M. J., Hu, X., Luo, A. F. (2026). Meta-Learning In-Context Enables Training-Free Cross Subject Brain Decoding. Conference on Computer Vision and Pattern Recognition ([CVPR](https://arxiv.org/abs/2604.08537  
-); accepted).  
+)).  
 
 Henderson, M.M. (2026). Visual input statistics and behavioral relevance jointly constrain higher visual cortex organization. Commentary in [Cognitive Neuroscience](https://doi.org/10.1080/17588928.2025.2591254). ([pdf](papers/CogNeuroCommentary_2025.pdf))
 
