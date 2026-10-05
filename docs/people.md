@@ -84,68 +84,45 @@ permalink: /people/
 	
 </div>
 
-<!--
 ### Ph.D Rotation Students
+
 
 <div style="width: 100%; display: flex; align-items: center; justify-content: space-between; margin-bottom: 2rem;">
 	<div style="width: 30%; flex-shrink: 0; aspect-ratio: 1;">
-		<img src="images/jimmy.jpg" alt="Picture of Jimmy" style="width: 100%; height: 100%; border-radius: 50%; object-fit: cover; object-position: center;">
+		<img src="images/will_friebel.jpg" alt="Picture of Will" style="width: 100%; height: 100%; border-radius: 50%; object-fit: cover; object-position: center;">
 	</div>
 	
 	<div style="width: 65%; padding-left: 2rem;">
 
-	<b>Jimmy Pulido Arias</b>
+	<b>William Friebel</b>
 	<br>
-	<i>Ph.D program in Neural Computation (PNC)
+	<i>Ph.D Program in Neural Computation 
 	</i>
 	<br>
-	 I have a background in computer science and AI (B.S. from the National University of Colombia) and Neuroengineering (M.S. from CNU in Korea). My research interests include BCI, computational neuroscience, Machine Learning and NeuroAI. Outside of the lab, you can find me cycling, hiking, cooking and cultivating coffee in Colombia.
+	I am broadly interested in how cognition interacts with visual perception. My current research focuses on how behavioral demands modulate visual representations. I employ different computational methods in my research, including ANN feature visualization, fMRI encoding models, and diffusion-based stimuli generation. Outside of the lab, I love baking (especially sweets), lifting weights, skiing, and listening to new house music!
 	</div>
 	
 </div>
--->
-
 
 ### M.S. Students 
 
 <div style="width: 100%; display: flex; align-items: center; justify-content: space-between; margin-bottom: 2rem;">
 	<div style="width: 30%; flex-shrink: 0; aspect-ratio: 1;">
-		<img src="images/ziyu.JPG" alt="Picture of Ziyu" style="width: 100%; height: 100%; border-radius: 50%; object-fit: cover; object-position: center;">
+		<img src="images/achin.jpg" alt="Picture of Achin" style="width: 100%; height: 100%; border-radius: 50%; object-fit: cover; object-position: center;">
 	</div>
 	
 	<div style="width: 65%; padding-left: 2rem;">
 
-	<b>Ziyu Li</b>
+	<b>Achin Parashar</b>
 	<br>
-	<i>M.S. program in Computational Biology
+	<i>M.S. in Neural Technologies (MiNT)
 	</i>
 	<br>
-	 I am a master student at CMU studying computational biology, interested in human behavioral categorization using computational model. I enjoy all kinds of outdoor activities and sports.
+	 I am interested in how we make decisions. What makes us behave a certain way, and can we nudge it with neurofeedback? For that, we need to know how our brains work!! :) I want to know how external signals shape our actions, and how can we leverage artificial neural networks to understand these processes? Outside the lab, you can find me benchmarking my own human-error on cricket, running, and (table) tennis.
 	</div>
 	
 </div>
 
-<!--### Visiting Students
-
-
-<div style="width: 100%; display: flex; align-items: center; justify-content: space-between; margin-bottom: 2rem;">
-	<div style="width: 30%; flex-shrink: 0; aspect-ratio: 1;">
-		<img src="images/lucas.png" alt="Picture of Lucas" style="width: 100%; height: 100%; border-radius: 50%; object-fit: cover; object-position: center; image-rendering: -webkit-optimize-contrast; transform: translateZ(0); backface-visibility: hidden;">
-	</div>
-	
-	<div style="width: 65%; padding-left: 2rem;">
-
-	<b>Lucas Piper</b>
-	<br>
-	<i>CMU Portugal Visiting Student Program
-	</i>
-	<br>
-	 My work lies at the intersection of neuroscience and computer vision. I’m currently exploring how spatial frequency constraints derived from fMRI data can be used to regularize vision models. Previously, I completed my master’s at the University of Lisbon, where I developed a module of subcortical visual processing to improve model robustness to image perturbations. Outside the lab, I enjoy training, photography, and mixing music.
-	</div>
-	
-</div>
-
--->
 ### Undergraduate Students
 
 
@@ -186,6 +163,11 @@ permalink: /people/
 
 
 ### Lab Alumni
+
+**Rae Gedangoni** (Vassar College/Dartmouth College)
+<br>
+<i>Undergraduate Program in Neural Computation (uPNC), 2026</i>
+<br>
 
 **Lucas Piper** (INESC-ID; IST, University of Lisbon)
 <br>
