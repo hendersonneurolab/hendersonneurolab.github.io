@@ -169,6 +169,11 @@ permalink: /people/
 <i>Undergraduate Program in Neural Computation (uPNC), 2026</i>
 <br>
 
+**Ziyu Li** 
+<br>
+<i>M.S. student in Computational Biology Program, 2024-2025.</i>
+<br>
+
 **Lucas Piper** (INESC-ID; IST, University of Lisbon)
 <br>
 <i>Visiting M.S. student through CMU-Portugal visiting student program, 2025</i>
