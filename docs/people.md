@@ -171,7 +171,7 @@ permalink: /people/
 
 **Ziyu Li** 
 <br>
-<i>M.S. student in Computational Biology Program, 2024-2025.</i>
+<i>M.S. Student in Computational Biology Program, 2025-2026.</i>
 <br>
 
 **Lucas Piper** (INESC-ID; IST, University of Lisbon)
