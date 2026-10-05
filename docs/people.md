@@ -108,7 +108,7 @@ permalink: /people/
 
 <div style="width: 100%; display: flex; align-items: center; justify-content: space-between; margin-bottom: 2rem;">
 	<div style="width: 30%; flex-shrink: 0; aspect-ratio: 1;">
-		<img src="images/achin.jpg" alt="Picture of Achin" style="width: 100%; height: 100%; border-radius: 50%; object-fit: cover; object-position: center;">
+		<img src="images/achin_cropped.jpg" alt="Picture of Achin" style="width: 100%; height: 100%; border-radius: 50%; object-fit: cover; object-position: center;">
 	</div>
 	
 	<div style="width: 65%; padding-left: 2rem;">
