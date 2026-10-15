@@ -160,6 +160,23 @@ permalink: /people/
 	</div>
 	
 </div>
+	
+<div style="width: 100%; display: flex; align-items: center; justify-content: space-between; margin-bottom: 2rem;">
+	<div style="width: 30%; flex-shrink: 0; aspect-ratio: 1;">
+		<img src="images/iishaan.jpg" alt="Picture of Iishaan" style="width: 100%; height: 100%; border-radius: 50%; object-fit: cover; object-position: center; image-rendering: -webkit-optimize-contrast; transform: translateZ(0); backface-visibility: hidden;">
+	</div>
+	
+	<div style="width: 65%; padding-left: 2rem;">
+
+	<b>Iishaan Inabathini</b>
+	<br>
+	<i> Cognitive Science (concentration in NeuroAI), minors in Machine Learning, Math, Computer Science
+	</i>
+	<br>
+	 I am an undergrad from Dallas studying cognitive science and machine learning at CMU. I'm broadly interested in AI and the brain, especially interpreting how each processes information, learns, and reasons. A north star is using these paired insights to build an AI system that matches Fable 5-level capabilities (with tools/retrieval standing in for stored knowledge) at effectively free inference cost through verification-free learning. In my free time I enjoy basketball and reading.
+	</div>
+	
+</div>
 
 
 ### Lab Alumni
