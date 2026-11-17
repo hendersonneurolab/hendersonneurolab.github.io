@@ -12,9 +12,9 @@ Zhao, J., Guo, H., Luo, A.F., & Henderson, M.M. (2026). Receptive-field-constrai
 
 Inabathini, I., & Henderson, M.M. (2026). Cross-attention encoding models reveal dynamic spatiotemporal routing across human higher visual cortex. [arXiv](https://doi.org/10.48550/arXiv.2609.36366); under review.
 
-Henderson, M.M., Luo, A.F., Park, S., Tarr, M.J, & Wehbe, L. (2026). Diffusion-based stimulus optimization reveals functional organization across higher visual cortex. [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.05.12.724119v1); under review.
+Henderson, M.M., Luo, A.F., Park, S., Tarr, M.J, & Wehbe, L. (2026). Diffusion-based stimulus optimization reveals functional organization across higher visual cortex. [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.05.12.724119v1); in revision. 
  
-Luo, A.F., Wehbe, L., Tarr, M.J., & Henderson, M.M. (2023). Neural Selectivity for Real-World Object Size in Natural Images. [bioRxiv](https://doi.org/10.1101/2023.03.17.533179); in revision.
+Hlayhel, A., Luo, A.F., Wehbe, L., Tarr, M.J., & Henderson, M.M. (2023). Cortical Sensitivity to Real-World Object Size in Natural Images. [bioRxiv](https://doi.org/10.1101/2023.03.17.533179); in revision.
 
 ### Peer-reviewed publications
 
